@@ -12,5 +12,7 @@ Code has a function to move the given obstacle and also assign mouse as the obst
 
 All the variables are nicely labeled ,you will understand what is for what.
 
+How to use: Download and move all the files to one folder and then open the Genetic_Algorithm.pde. (Processing must be installe. Link to download: https://processing.org/download/)
+
 
 P.S.:- Some generations may take few hundred generations. To avoid the same, increase the amount of fuel, refresh or tweak the fitness function.
